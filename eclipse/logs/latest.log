@@ -1,14 +1,14 @@
-[17:37:38] [main/INFO]: Setting user: Player781
-[17:37:42] [Client thread/INFO]: LWJGL Version: 2.9.1
-[17:37:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[17:37:56] [Sound Library Loader/INFO]: Sound engine started
-[17:37:59] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:38:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:38:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[17:38:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[17:38:01] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[17:38:02] [Sound Library Loader/INFO]: Sound engine started
-[17:38:04] [Client thread/ERROR]: ########## GL ERROR ##########
-[17:38:04] [Client thread/ERROR]: @ Post startup
-[17:38:04] [Client thread/ERROR]: 1281: Invalid value
-[17:39:08] [Client thread/INFO]: Stopping!
+[18:21:25] [main/INFO]: Setting user: Player843
+[18:21:29] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:21:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[18:21:43] [Sound Library Loader/INFO]: Sound engine started
+[18:21:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:21:47] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:21:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[18:21:48] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:21:49] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:21:50] [Sound Library Loader/INFO]: Sound engine started
+[18:21:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[18:21:52] [Client thread/ERROR]: @ Post startup
+[18:21:52] [Client thread/ERROR]: 1281: Invalid value
+[18:23:33] [Client thread/INFO]: Stopping!
